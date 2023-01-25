@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874278160954",
+    "project_id": "fourth-dimension-1",
+    "storage_bucket": "fourth-dimension-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874278160954:android:c83f3d12edc648d2364303",
+        "android_client_info": {
+          "package_name": "io.nftrecovery.fourthDimensionNetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874278160954-8j52e2s8rlolpi8cbcgka0uod79qvqsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRxaw0--VHhnT1bOpa10V3wPAeEWi9Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874278160954-8j52e2s8rlolpi8cbcgka0uod79qvqsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

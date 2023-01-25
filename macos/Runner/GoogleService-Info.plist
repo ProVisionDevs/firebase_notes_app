@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>132955150182-nas83mmp1ilk08bb5fg6m5ekenbigu0q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.132955150182-nas83mmp1ilk08bb5fg6m5ekenbigu0q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjH-TOJo7h1NEvMlgsWUnaZgHjs9L08Ck</string>
+	<key>GCM_SENDER_ID</key>
+	<string>132955150182</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.provost-brent.fourthDimensionNetwork</string>
+	<key>PROJECT_ID</key>
+	<string>frn-notes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frn-notes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:132955150182:ios:96a65b973de8b55ba8daa7</string>
+</dict>
+</plist>
