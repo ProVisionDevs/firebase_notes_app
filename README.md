@@ -1,4 +1,4 @@
-# fourth_dimension_network
+# Firebase Notes App
 
 A new Flutter project.
 
